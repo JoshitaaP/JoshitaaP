@@ -27,6 +27,24 @@
 
 ---
 
+### 🔥 Streaks & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoshitaaP&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshitaaP&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Competitive Coding
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/JoshitaaP?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+*(Replace `JoshitaaP` above with your actual LeetCode username.)
+
 ### Recent Projects
 - 🗣️ **AI Voice Enhancer** – Deep learning model using CNN autoencoders for noise reduction  
 - 🌾 **OptiCrop** – Smart Agricultural Production Optimization Engine  
