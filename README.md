@@ -43,7 +43,7 @@
   <img src="https://leetcard.jacoblin.cool/JoshitaaP?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-*(Replace `JoshitaaP` above with your actual LeetCode username.)
+---
 
 ### Recent Projects
 - 🗣️ **AI Voice Enhancer** – Deep learning model using CNN autoencoders for noise reduction  
