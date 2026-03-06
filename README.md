@@ -19,25 +19,6 @@
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshitaaP&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshitaaP&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🔥 Streaks & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoshitaaP&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshitaaP&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### 🧩 Competitive Coding
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JoshitaaP?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
