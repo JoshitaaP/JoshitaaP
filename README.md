@@ -1,14 +1,14 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Joshitaa Padala</h1>
-<h3 align="center">💻 CSE (AI & ML) Student @ VIT-AP University | Aspiring AI Innovator </h3>
+<h1 align="center">Joshitaa Padala</h1>
+<h3 align="center"> CSE (AI & ML) Student @ VIT-AP University | Aspiring AI Innovator </h3>
 
 ---
 
 ### About Me
-🎓 B.Tech Computer Science Engineering (AI & ML)  
-💡 Passionate about Artificial Intelligence and Machine Learning  
-💬 Ask me about: Python, ML, and turning ideas into real projects  
-📫 Reach me at: **joshitaap@gmail.com**
+B.Tech Computer Science Engineering (AI & ML)  
+Passionate about Artificial Intelligence and Machine Learning  
+Ask me about: Python, ML, and turning ideas into real projects  
+Reach me at: **joshitaap@gmail.com**
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧩 Competitive Coding
+### Competitive Coding
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JoshitaaP?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
@@ -27,9 +27,9 @@
 ---
 
 ### Recent Projects
-- 🗣️ **AI Voice Enhancer** – Deep learning model using CNN autoencoders for noise reduction  
-- 🌾 **OptiCrop** – Smart Agricultural Production Optimization Engine  
-- 🌌 **Research Paper:** *Birth of Black Holes: Unraveling the Genesis of Black Holes* (ICAJEN Journal, 2024)  
+-  **AI Voice Enhancer** – Deep learning model using CNN autoencoders for noise reduction  
+-  **OptiCrop** – Smart Agricultural Production Optimization Engine  
+-  **Research Paper:** *Birth of Black Holes: Unraveling the Genesis of Black Holes* (ICAJEN Journal, 2024)  
 
 ---
 
